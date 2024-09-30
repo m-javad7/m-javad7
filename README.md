@@ -5,7 +5,7 @@
 - I’m currently learning TypeScript
   <h3 align="center"><a href="https://javad-portfolio-next.vercel.app" target="_blank" rel="noopener noreferrer">Go To My Portfolio</a></h3>
 ### `👨🏻‍💻 Skills`
-[![My Skills](https://skillicons.dev/icons?i=js,react,next,redux,tailwind,sass,git,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,next,vue,vuetify,redux,tailwind,sass,git,ps)](https://skillicons.dev)
 ### `📞 Contact Me`
 
 <p align="center"> 
